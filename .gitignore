@@ -1,4 +1,4 @@
 # Data-generated
-cache\*.json
-results\*.mp4
-results\*.npz
+cache/*.json
+results/*.mp4
+results/*.npz
