@@ -1,4 +1,17 @@
 # Data-generated
-cache/*.json
-results/*.mp4
-results/*.npz
+cache/
+results/
+
+# Media
+*.mp4
+*.npz
+*.json
+
+# Virtual envirnoment
+.venv_rl/
+
+# Cached python files
+__pycache__/
+
+# Misc
+.codex
