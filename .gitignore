@@ -9,6 +9,7 @@ results/
 
 # Virtual envirnoment
 .venv_rl/
+ltf-venv/
 
 # Cached python files
 __pycache__/
